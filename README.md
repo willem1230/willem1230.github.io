@@ -1,5 +1,3 @@
-# 1e link
-https://github.com/willem1230/oefeningenles2_willem
+# [oefeningles2](https://github.com/willem1230/oefeningenles2_willem)
 
-# 2e link
-https://github.com/willem1230/oef4
+# [oefening4](https://github.com/willem1230/oef4)
