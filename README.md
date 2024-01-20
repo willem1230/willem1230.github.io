@@ -7,3 +7,5 @@ Hallo op volgende links vind je mijn projecten:
 ## [API_oefening_rest](https://github.com/willem1230/rest)
 
 ## [API_oefening2](https://github.com/willem1230/API_oefening1)
+
+## [CSV_oef3](https://github.com/willem1230/CSoef3)
